@@ -38,6 +38,7 @@ For my Bachelor Degree project, I developed a **website** and **3D game** to mak
 - **Framework:** React.js
 - **Website design:** Adobe Illustrator
 - **Styling:** CSS
+- **Testing:** Jest
 
 ## Usage
 
